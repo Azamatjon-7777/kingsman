@@ -2,3 +2,10 @@
     margin: 0;
     padding: 0;
 }
+.card{
+    align-items: baseline;
+    text-transform: uppercase;
+    padding: 15px 15px;
+    justify-content: center;
+    
+}
